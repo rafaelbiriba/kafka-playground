@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    digest-crc (0.4.1)
+    ruby-kafka (0.7.6)
+      digest-crc
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ruby-kafka
+
+RUBY VERSION
+   ruby 2.5.1p57
+
+BUNDLED WITH
+   1.16.2
